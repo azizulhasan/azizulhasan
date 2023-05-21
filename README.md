@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -33,15 +32,16 @@
 ###
 
 <div align="left">
-  <img src="[[react](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)" height="40" width="52" alt="React logo"  />
-  <img src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg)" height="40" width="52" alt="PHP logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg)" height="40" width="52" alt="JavaScript logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg)" height="40" width="52" alt="Tailwind logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original.svg)" height="40" width="52" alt="woocommerce logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/tree/v2.15.1/icons/mongodb)" height="40" width="52" alt="mongodb logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg)" height="40" width="52" alt="nodejs logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg)" height="40" width="52" alt="wordpress logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="40" width="52" alt="React logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" height="40" width="52" alt="PHP logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="Tailwind logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original.svg" height="40" width="52" alt="woocommerce logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="40" width="52" alt="Express logo"  />
 </div>
 
 ###
