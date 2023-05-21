@@ -33,14 +33,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="52" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" width="52" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" width="52" alt="circleci logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="[[react](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)" height="40" width="52" alt="React logo"  />
+  <img src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg)" height="40" width="52" alt="PHP logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg)" height="40" width="52" alt="JavaScript logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg)" height="40" width="52" alt="Tailwind logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original.svg)" height="40" width="52" alt="woocommerce logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/tree/v2.15.1/icons/mongodb)" height="40" width="52" alt="mongodb logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg)" height="40" width="52" alt="nodejs logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg)" height="40" width="52" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
 </div>
 
