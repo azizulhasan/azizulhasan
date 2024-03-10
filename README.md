@@ -6,7 +6,7 @@
 
 <p align="left">I'm a Software Engineer at WebAppick. Passionate about JavaScript and PHP technologies, I specialize in WordPress Plugin Development, showcasing expertise in PHP, JavaScript, React, PHPUnit, PHPCS, Tailwind CSS, and more. Currently diving into the world of machine learning, I'm actively learning Python and TensorFlow.  #WebDevelopment #WordPress #MachineLearning.<br><br>- 🔭 I’m currently working on CTX Feed Pro and CTX Feed Free  UI building with React, Rest API, Unit testing <br/><br/>
 I'm the author of <a target="_blank" href="https://wordpress.org/plugins/text-to-audio/"> Text To Speech TTS Plugin </a><br/><br/>
- Ask me anything on <a target="_blank" href="https://www.linkedin.com/in/azizulhasan1995/"> LinkedIn </a>   </p>
+ Ask me anything on <a target="_blank" href="https://www.linkedin.com/in/azizulhasan1995/"> Linkedin </a>   </p>
 
 
 
