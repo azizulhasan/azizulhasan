@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer | Full Stack Developer | WordPress Plugin Developer || Sofware Engineer</h1>
+<h1 align="center">Software Engineer | Full Stack Developer | WordPress Plugin Developer </h1>
 
 ###
 
